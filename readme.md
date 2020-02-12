@@ -1,3 +1,5 @@
-This is a sample usage of sshrc from github.com/Russell91/sshrc with oh-my-zsh stripped to only include the necessary stuff.
+This is a sample usage of sshrc from https://github.com/Russell91/sshrc with oh-my-zsh stripped to only include the necessary stuff.
 
-Install by including bin/sshrc in your PATH and moving .sshrc and .sshrc.d to your home folder.
+`.sshrc` was taken from here: https://github.com/oh-my-ssh/zsh
+
+Install by including `bin/sshrc` in your PATH and moving `.sshrc` and `.sshrc.d` to your home folder.
